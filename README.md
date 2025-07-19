@@ -10,7 +10,7 @@ that tests various endpoints from the **DummyJSON API** (publicly available).
 - Java
 - TestNG
 - RestAssured
-- Postman (Refer POSTMAN_README.md)
+- Postman (Refer POSTMAN.md)
 
 ---
 
