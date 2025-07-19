@@ -1,0 +1,19 @@
+{
+  "ValidUserName": "emilys",
+  "ValidPassword": "emilyspass",
+  "tokenKey": "accessToken",
+  "messageKey": "message",
+  "invalidMessageValue": "Invalid credentials",
+  "requiredMessageValue": "Username and password required",
+  "viewCart": "/cart/{cartID}",
+  "cartID": 1,
+  "addCart": "/carts/add",
+  "updateCart": "/cart/{cartID}",
+  "deleteCart": "/cart/{cartID}",
+  "viewAllProducts": "/products",
+  "viewProductByID": "/products/{productID}",
+  "productID": 1,
+  "searchProduct": "/products/search",
+  "productTitle": "Essence Mascara Lash Princess",
+  "searchTitleAdd": "Apple"
+}
